@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AidarProgrammer
+- 👋 Hi, I’m @Aidar
 - 👀 I’m interested in web sites
 - 🌱 I’m currently learning HTML, CSS, JS and much more
 - 📫 How to reach me instagram : https://www.instagram.com/chessmaestro27/   
